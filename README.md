@@ -5,6 +5,9 @@
   <h3>Entrepreneur | Trader | Business Innovator</h3>
 
   <p>
+    <a href="https://github.com/kinachaiyoo" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
     <a href="https://twitter.com/kinachaiyooo" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
@@ -24,7 +27,9 @@
 
   <h2>Meet My Dedication</h2>
   
-  [![YouTube Video](https://img.youtube.com/vi/Po14EUfOsCI/0.jpg)](https://www.youtube.com/shorts/Po14EUfOsCI)
+  <a href="https://www.youtube.com/shorts/Po14EUfOsCI" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"/>
+  </a>
 </div>
 
 ---
@@ -42,28 +47,22 @@ Visionary entrepreneur from Nepal with a passion for building impactful business
 ## 🛠 Technical Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,mongodb,mysql,docker,firebase,flutter,aws,git,github,vscode&perline=6" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kinachaiyoo&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d324d,7f5a83&title_color=fff&text_color=fff&icon_color=fff"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kinachaiyoo&theme=radical&hide_border=true&background=0d324d,7f5a83&stroke=FFFFFF"/>
-</p>
+<div align="center">
+  <a href="https://github.com/kinachaiyoo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kinachaiyoo&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d324d,7f5a83&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinachaiyoo&layout=compact&theme=radical&hide_border=true&bg_color=30,0d324d,7f5a83&title_color=fff&text_color=fff"/>
+  </a>
+</div>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinachaiyoo&layout=compact&theme=radical&hide_border=true&bg_color=30,0d324d,7f5a83&title_color=fff&text_color=fff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinachaiyoo&theme=radical&hide_border=true&background=0d324d,7f5a83&stroke=FFFFFF" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -73,16 +72,22 @@ Visionary entrepreneur from Nepal with a passion for building impactful business
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">Trading Algorithm</h3>
+        <div align="center">
+          <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kinachaiyoo&repo=trading-algo&theme=radical&bg_color=30,0d324d,7f5a83&title_color=fff&text_color=fff" />
+        </div>
         <p align="center">Developing automated trading strategies using Python and machine learning</p>
         <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
         </p>
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">Business Venture</h3>
+        <div align="center">
+          <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=kinachaiyoo&repo=business-venture&theme=radical&bg_color=30,0d324d,7f5a83&title_color=fff&text_color=fff" />
+        </div>
         <p align="center">Building an innovative startup (details coming soon)</p>
         <p align="center">
           <img src="https://img.shields.io/badge/Startup-6e5494?style=flat&logo=startup&logoColor=white"/>
@@ -104,13 +109,13 @@ Visionary entrepreneur from Nepal with a passion for building impactful business
 
 <p align="center">
   <a href="mailto:kinachaiyoo083@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF5722"/>
+    <img src="https://img.shields.io/badge/Email%20Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/aalok-thakur-a18630265">
-    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/kinachaiyooo">
-    <img src="https://img.shields.io/badge/Tweet-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+  <a href="https://github.com/kinachaiyoo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
