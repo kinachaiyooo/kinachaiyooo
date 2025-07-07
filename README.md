@@ -11,6 +11,11 @@
     <a href="https://linkedin.com/in/aalok-thakur-a18630265" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+     <a href=" <a href="https://linkedin.com/in/aalok-thakur-a18630265" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github"/>
+    </a>" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
     <a href="https://facebook.com/kina.chaiyo.505241" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
